@@ -1,0 +1,6 @@
+{
+  "name": "Personal Developer Portfolio",
+  "description": "A structured personal GitHub portfolio website featuring educational qualifications (SSC, HSC, BSc), technical skills (HTML, CSS, Python, Java), professional experience, projects, and CV integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
